@@ -9,6 +9,7 @@ NewsDeck is a React application where you can get your daily dose of news from a
 - [Installation](#installation)
 - [Features](#features)
 - [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -39,6 +40,17 @@ Follow these steps to set up and run NewsDeck locally:
 - **Bootstrap 5 Styling**: The application is styled using Bootstrap 5, providing a modern and responsive design across various devices.
 
 - **Top Loadbar**: In NewsDeck, we've incorporated a user-friendly and visually appealing top loader, inspired by the loading animation used by platforms like YouTube. This loader enhances the user experience by providing visual feedback during content retrieval, especially when fetching news articles or loading new content through the infinite scroll feature.
+
+## Preview
+
+<img width="960" alt="Screenshot 2023-08-09 151221" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/89273a02-2c96-49c7-955f-d6baca06fded">
+
+<img width="959" alt="Screenshot 2023-08-09 151256" src="https://github.com/AbhinavBachchan/NewsDeck/assets/78028264/ab53dac4-d290-4de1-9f0a-79a2066aaad7">
+
+## Usage
+
+Navigate through the app using the navigation links. The home page displays a list of news articles fetched from NewsAPI. Scroll down to load more articles with the infinite scroll feature.
+
 ## Contributing
 
 We welcome contributions from the community! To contribute to NewsDeck, follow these steps:
