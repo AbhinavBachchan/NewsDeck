@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nouran Salahieh",
+      "title": "A massive $1.05 billion Mega Millions jackpot is up for grabs in tonight’s drawing - CNN",
+      "description": "One lucky winner could nab a massive $1.05 billion Mega Millions jackpot that’s up for grabs in Tuesday night’s drawing.",
+      "url": "https://www.cnn.com/2023/08/01/us/mega-millions-tuesday-drawing-lottery-jackpot/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731110755-mega-millions-2023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-01T05:37:00Z",
+      "content": "One lucky winner could nab a massive $1.05 billion Mega Millions jackpot thats up for grabs in Tuesday nights drawing.\r\nIf won, the mammoth jackpot would equal the fourth-largest prize in Mega Millio… [+1341 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Alicia DelGallo, Lindsay Schnell, Nancy Armour",
+      "title": "USA vs. Portugal live updates: USWNT lineup, prediction, time, more - USA TODAY",
+      "description": "The United States fights to keep its 2023 World Cup campaign alive with a group match finale vs. Portugal. Alex Morgan and Lindsey Horan lead the way.",
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2023/08/01/usa-portugal-womens-world-cup-live-updates/70498157007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/07/22/USAT/70449828007-wcsmith.jpg?crop=5327,3010,x0,y0&width=3200&height=1809&format=pjpg&auto=webp",
+      "publishedAt": "2023-08-01T05:01:25Z",
+      "content": "The U.S. womens national team will fight to keep their 2023 World Cup campaign alive Tuesday against Portugal. The Americans are vying for a third straight World Cup victory, which would be a record,… [+10108 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nick Paton Walsh, Florence Davey-Attlee, Kostyantin Gak, Brice Lâiné",
+      "title": "‘Nowhere to hide’: The question troubling Ukrainian troops amid a grinding counteroffensive - CNN",
+      "description": "The four roads of Staromayorske appear almost ground to dust in the drone footage. It’s a tiny village, but as the latest gain of Ukraine’s renewed counteroffensive in the direction of Mariupol, Staromayorske’s symbolism far outweighs its size.",
+      "url": "https://www.cnn.com/2023/08/01/europe/ukraine-neskuchne-question-counteroffensive-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731152034-staromayorske-drone-video.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-01T04:08:00Z",
+      "content": "The four roads of Staromayorske appear almost ground to dust in the drone footage. Its a tiny village, but as the latest gain of Ukraines renewed counteroffensive in the direction of Mariupol, Starom… [+5131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "R.J. Anderson",
+      "title": "MLB trade rumors: Live deadline news, trades, latest on Justin Verlander, Yankees, Padres, more - CBS Sports",
+      "description": "The 2023 MLB trade deadline is set for Tuesday evening; find all the latest buzz here",
+      "url": "https://www.cbssports.com/mlb/news/mlb-trade-rumors-live-deadline-news-trades-latest-on-justin-verlander-yankees-padres-more/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/31/c789f922-349c-494a-87cd-b55e8b2a7d03/thumbnail/1200x675/d6f550623ed313a81d7302fc8fce0410/verlander-usatsi-4.png",
+      "publishedAt": "2023-08-01T03:52:00Z",
+      "content": "Major League Baseball's trade deadline is set for Tuesday (Aug. 1) at 6 p.m. ET. MLB teams have less than 24 hours remaining to plot out their deadline strategies, and to attempt to buy or sell ahead… [+916 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Nikole Killion",
+      "title": "Fulton County D.A. receives racist threats as charging decision against Trump looms - CBS News",
+      "description": "Monday marks the opening of the three-week window Fani Willis set for a potential decision on whether former President Donald Trump should face charges over his alleged conduct after the 2020 election.",
+      "url": "https://www.cbsnews.com/news/fulton-county-d-a-racist-threats-charging-decision-against-trump/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/30/5d10abab-2b98-46c4-8a6c-cf93efcc3b5a/thumbnail/1200x630g2/2b4b65c9444ee46c239e821626d55d0a/ap23029794890333.jpg?v=7a59b1f350438a037e8fc5a4d24a0766",
+      "publishedAt": "2023-08-01T02:43:00Z",
+      "content": "District Attorney Fani Willis warned Fulton County commissioners this weekend they should \"stay alert\" over the next month, according to emails obtained by CBS News. \r\nShe pointed to a threatening em… [+2380 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Steven Vago, Alex Oliveira",
+      "title": "Alicia Navarro ‘hung her head' and appeared to cry as FBI agents raided Montana home where she lived, 'cuffed' man: neighbor - New York Post ",
+      "description": "Neighbors said FBI agents staked out the home in Havre, Montana, for days after missing girl Alicia Navarro identified herself to police.",
+      "url": "https://nypost.com/2023/07/31/alicia-navarro-cried-as-fbi-agents-raided-her-montana-apartment-neighbor/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/Untitled-1-47.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-08-01T02:40:00Z",
+      "content": "Alicia Navarro “hung her head” and covered her eyes “like she was crying” as FBI agents last week raided the Montana apartment she had been living in with an unidentified man, neighbors told The Post… [+3485 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Paul Reubens, actor best known for Pee-wee Herman role, dies at age 70 - CBS News",
+      "description": "Paul Reubens, the actor best known for his role as Pee-wee Herman, died after a private battle with cancer. He was 70. Omar Villafranca looks back at his legacy.",
+      "url": "https://www.cbsnews.com/video/paul-reubens-actor-best-known-for-pee-wee-herman-role-dies-at-age-70/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/31/75265329-8b21-480b-95e1-061407e6135d/thumbnail/1200x630/b7fd78562327bb39627effed78309ef1/0731-en-villafranca-2170041-640x360.jpg?v=7a59b1f350438a037e8fc5a4d24a0766",
+      "publishedAt": "2023-08-01T02:14:33Z",
+      "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jamiel Lynch, Chenelle Woody, Amy Simonson",
+      "title": "Driver of SUV that hit and injured 6 migrant workers outside a North Carolina Walmart has turned himself in, police say - CNN",
+      "description": "A 68-year-old man turned himself in Monday after six migrant workers were hit and injured by an SUV outside a North Carolina Walmart Sunday afternoon, police said.",
+      "url": "https://www.cnn.com/2023/07/30/us/north-carolina-lincolnton-walmart-migrant-workers/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230730204007-01-migrants-hit-by-suv-nc-073023-map.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-01T02:11:00Z",
+      "content": "A 68-year-old man turned himself in Monday after six migrant workers were hit and injured by an SUV outside a North Carolina Walmart Sunday afternoon, police said.\r\nThe driver told investigators and … [+1296 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Angus Cloud: HBO Euphoria actor who played 'Fez' dead aged 25 - BBC",
+      "description": "The star is reportedly found dead at his family home in California a week after burying his father.",
+      "url": "https://www.bbc.com/news/world-us-canada-66333376",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/189C/production/_130600360_gettyimages-1414380173.jpg",
+      "publishedAt": "2023-08-01T01:58:40Z",
+      "content": "Angus Cloud, who starred on HBO hit series Euphoria, has died aged 25. \r\nCloud, who played drug dealer Fezco \"Fez\" O'Neill on the teen drama, died on Monday at his family home in Oakland, California,… [+3049 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Same Moscow skyscraper hit in new drone attack - BBC",
+      "description": "The building was targeted in a similar attack on Sunday, Mayor Sergei Sobyanin says.",
+      "url": "https://www.bbc.com/news/world-europe-66368016",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9F0/production/_130600674_moscow_drone_reu.jpg",
+      "publishedAt": "2023-08-01T01:42:18Z",
+      "content": "A skyscraper in Russia's capital Moscow has been hit again by a drone, Mayor Sergei Sobyanin says.\r\nSeveral drones were shot down overnight, he said, but \"one flew into the same tower at the Moskva C… [+673 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Wayne Sterling",
+      "title": "24-year-old NFL player KJ Hamler steps away from Broncos with heart issue, but says he intends to return - CNN",
+      "description": "Denver Broncos wide receiver KJ Hamler is stepping away from the NFL for treatment after being diagnosed with a heart issue, the 24-year-old player announced Monday on Instagram.",
+      "url": "https://www.cnn.com/2023/07/31/sport/nfl-denver-broncos-kj-hamler-spt/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731172226-kj-hamler-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-01T01:29:00Z",
+      "content": "Denver Broncos wide receiver KJ Hamler is stepping away from the NFL for treatment after being diagnosed with a heart issue, the 24-year-old player announced Monday on Instagram.\r\nAfter feeling some … [+1837 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Search for Voyager 2 after Nasa accidentally sends wrong command - The Guardian",
+      "description": "Dish in Australia deployed to find interstellar spacecraft after flight control pointed its antenna away from Earth",
+      "url": "https://www.theguardian.com/science/2023/aug/01/search-for-voyager-2-after-nasa-accidentally-sends-wrong-command",
+      "urlToImage": "https://i.guim.co.uk/img/media/656aed16e20724f7281f0ccc388a4906af37fd07/0_801_4500_2699/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8286a42c0023ff72613d5d72f79567d0",
+      "publishedAt": "2023-08-01T01:22:00Z",
+      "content": "Nasa is listening for any peep from Voyager 2 after it lost contact with the spacecraft billions of miles away.\r\nHurtling ever deeper into interstellar space, Voyager 2 has been out of touch ever sin… [+1401 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Video: Hear Trump's unearthed comments on destroying evidence as he faces new obstruction charge - CNN",
+      "description": "Former president Donald Trump’s unearthed comments reveal he railed against those who destroy evidence as he faces a new obstruction charge. CNN’s KFile senior editor Andrew Kaczynski reports.",
+      "url": "https://www.cnn.com/videos/politics/2023/07/31/trump-past-comments-destroying-evidence-hillary-clinton-kfile-sot-ebof-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731192957-trump-past-comments-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-01T00:28:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "How weather can impact the spread of wildfires - 8 News NOW Las Vegas",
+      "description": "As the York fire continues to spread from the Mojave National Preserve in California and into Nevada State lines, experts say knowing how a wildfire may beha...",
+      "url": "https://www.youtube.com/watch?v=5FK5FiOujVU",
+      "urlToImage": "https://i.ytimg.com/vi/5FK5FiOujVU/maxresdefault.jpg",
+      "publishedAt": "2023-08-01T00:25:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Yael Halon",
+      "title": "Illinois Gov. Pritzker allows non-US citizens to become police officers with new law: 'Fundamentally bad idea' - Fox News",
+      "description": "Illinois's Democrat Governor Pritzker will now allow non-U.S. citizens to join law enforcement in Illinois despite heavy opposition from Republican lawmakers and police groups.",
+      "url": "https://www.foxnews.com/media/illinois-gov-pritzker-allows-non-us-citizens-become-police-officers-new-law-fundamentally-bad-idea",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/pritzker_signing.jpg",
+      "publishedAt": "2023-08-01T00:00:00Z",
+      "content": "Illinois Gov. J.B. Pritzker, D., signed a bill into law that allows non-U.S. citizens to become police officers in the state, angering critics who slammed the idea of foreigners arresting American ci… [+5102 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Niger coup: Why some people want Russia in and France out - BBC",
+      "description": "Supporters of the military which seized power in Niger have been showing their support for Russia.",
+      "url": "https://www.bbc.com/news/world-africa-66365376",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17FFC/production/_130600389_niger.jpg",
+      "publishedAt": "2023-07-31T23:59:25Z",
+      "content": "In a sign of growing hostility towards the West since the coup in Niger, a businessman proudly shows off his outfit in the colours of the Russian flag in the traditional heartland of deposed Presiden… [+4791 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SFGate" },
+      "author": "Gabe Lehman",
+      "title": "I took a ride on the 'Swiftie Express' to see Taylor Swift in Santa Clara - SFGATE",
+      "description": "Amtrak mades it easy to get to Taylor Swift's Eras Tour at Levi's Stadium in Santa Clara.",
+      "url": "https://www.sfgate.com/sf-culture/article/swiftie-express-taylor-swift-santa-clara-eras-tour-18270916.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/33/72/13/24093380/7/rawImage.jpg",
+      "publishedAt": "2023-07-31T23:55:10Z",
+      "content": "Amtraks Capitol Corridor train to the Levi's Stadium (aka the Swiftie Express Swifts two-night Bay Area stay) was direct, cheap and hassle-free.\r\nCaltrain/Getty/Illustration by SFGATE\r\nSanta Claras m… [+3335 chars]"
+    },
+    {
+      "source": { "id": null, "name": "San Francisco Chronicle" },
+      "author": "Kellie Hwang",
+      "title": "Two supermoons will light up the night sky in August. Here's what you need to know - San Francisco Chronicle",
+      "description": "The first of two August supermoons will rise over the Bay Area this week, kicking off a \"very unusual\" month, astronomers say.",
+      "url": "https://www.sfchronicle.com/bayarea/article/supermoons-two-blue-sturgeon-18270736.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/33/72/36/24094614/3/rawImage.jpg",
+      "publishedAt": "2023-07-31T23:38:26Z",
+      "content": "The first of two August supermoons will rise over the Bay Area on Tuesday, kicking off a very unusual month featuring two full moons at their closest distance to Earth along their orbit, according to… [+1747 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Emily Brooks",
+      "title": "Devon Archer debate focuses on Hunter Biden ‘illusion of access’ - The Hill",
+      "description": "Democrats and Republicans are offering clashing interpretations of the significance of former Hunter Biden business associate Devon Archer’s closed-door testimony, which lawmakers said included assertions that Hunter Biden was selling the “illusion of access”…",
+      "url": "https://thehill.com/homenews/house/4129974-devon-archer-debate-focuses-on-hunter-biden-illusion-of-access/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/archerdevon_073123tc02_w.jpg?w=1280",
+      "publishedAt": "2023-07-31T23:27:00Z",
+      "content": "Skip to content\r\nDemocrats and Republicans are offering clashing interpretations of the significance of former Hunter Biden business associate Devon Archer’s closed-door testimony, which lawmakers sa… [+8501 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Yew Lun Tian",
+      "title": "'Not found': China's ex-foreign minister is gone but wait for explanation goes on - Reuters",
+      "description": "Hours after China's top legislature convened a special meeting last week to remove foreign minister Qin Gang, photos and mentions of the 57-year-old started disappearing from his former ministry's website.",
+      "url": "https://www.reuters.com/world/asia-pacific/not-found-chinas-ex-foreign-minister-is-gone-wait-explanation-goes-2023-07-31/",
+      "urlToImage": "https://www.reuters.com/resizer/JvtxD95p0W3PkwgbzmJ5ISO3VGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LMYHAJEH3ZNVXFJJJJFIRB5Q5Q.jpg",
+      "publishedAt": "2023-07-31T23:13:00Z",
+      "content": "BEIJING, Aug 1 (Reuters) - Hours after China's top legislature convened a special meeting last week to remove foreign minister Qin Gang, photos and mentions of the 57-year-old started disappearing fr… [+5434 chars]"
+    }
+  ]
+}
